@@ -2,16 +2,96 @@
     {
         "paper_id": "1",
         "title": "Mixed-halide perovskite synthesis by chemical reaction and crystal nucleation under an optical potential",
-        "abstract": "The development of new methods to engineer lead halide perovskite crystals with a controlled band gap and emission properties is an active subject in materials science and chemistry. We present the preparation of mixed-halide lead perovskites by spatially- and temporally- controlled chemical reactions and crystal growth under an optical potential in unsaturated precursor solutions. The crystals are characterized by transmission and photoluminescence spectral measurements and X-ray diffraction analysis. When compared with the spontaneous formation of multiple crystals in saturated precursor solutions, the optical potential creates large single crystals with a high chloride composition, providing distinct blue and green fluorescent crystals of chloride–bromide lead perovskites. We discuss the formation of mixed-halide perovskites from the viewpoints of an increased rate of chemical reaction via the formation and desolvation of precursor complexes and a decreased free energy potential.",
-        "keywords": ["perovskite", "optical trapping", "transmission microspectroscopy", "MaPbBr", "DMSO/DMF", "Chloride-bromide perovskite"],
-        "authors": ["Md Jahidul Islam", "Ken-ichi Yuyama", "Kiyonori Takahashi", "Takayoshi Nakamura", "Katsuaki Konishi", "Vasudevanpillai Biju"]
+        "abstract": "The development of new methods to engineer lead halide perovskite crystals with a controlled band gap and emission properties is an active subject in materials science and chemistry. We present the preparation of mixed-halide lead perovskites by spatially- and temporally- controlled chemical reactions and crystal growth under an optical potential in unsaturated precursor solutions. The crystals are characterized by transmission and photoluminescence spectral measurements and X-ray diffraction analysis. When compared with the spontaneous formation of multiple crystals in saturated precursor solutions, the optical potential creates large single crystals with a high chloride composition, providing distinct blue and green fluorescent crystals of chloride\u00e2\u20ac\u201cbromide lead perovskites. We discuss the formation of mixed-halide perovskites from the viewpoints of an increased rate of chemical reaction via the formation and desolvation of precursor complexes and a decreased free energy potential.",
+        "keywords": [
+            "perovskite",
+            "optical trapping",
+            "transmission microspectroscopy",
+            "MaPbBr",
+            "DMSO/DMF",
+            "Chloride-bromide perovskite"
+        ],
+        "authors": [
+            "Md Jahidul Islam",
+            "Ken-ichi Yuyama",
+            "Kiyonori Takahashi",
+            "Takayoshi Nakamura",
+            "Katsuaki Konishi",
+            "Vasudevanpillai Biju"
+        ]
     },
     {
         "paper_id": "2",
         "title": "Uncovering Unique Screening Effects in 2D Perovskites: Implications for Exciton and Band Gap Engineering",
         "abstract": "Coulomb interactions govern most optoelectronic properties in semiconductors including bandgap, excitons, polaron formation, light absorption, interaction of carriers with defects, charge and energy transport. A clear signature of the strength of many-body Coulomb interactions is the exciton binding energy (Eb). As such, the importance of Eb is perhaps second only to the fundamental band gap (Eg) in understanding the physics and efficiency of low-dimensional semiconductors. However, despite their importance, Eg and Eb are difficult to measure. Here, by choosing 2D halide perovskites as the material and electroabsorption as the experimental probe, we measure Eg and Eb with a precision that is an order of magnitude better than typical methods. The Eb values are both lower than previous literature reports and lower than expected from standard theory. Using dielectric spectroscopy, density functional theory, and quantum mechanical modeling, we demonstrate these low Eb values are a consequence of unique screening effects, such as superlattice screening and phonon screening. We demonstrate a clear correlation between Eb and Eg and provide design principles in order to a priori tune Eg and Eb to their optimal values. As such, this work lays the blueprint for Eg-Eb engineering of low-dimensional semiconductors, as an even more useful replacement to simply band gap engineering.",
-        "keywords": ["MaPbBr", "polaron formation", "carrier defects", "exciton binding energy", "dichalcogenides", "Wannier", "photoluminescence excitation"],
-        "authors": ["Kameron Hansen", "Cindy Wong", "C. Emma McClure", "Blake Romrell", "Laura Flannery", "Daniel Powell", "Kelsey Garden", "Alex Berzansky", "Michele Eggleston", "Daniel King", "Carter Shirley", "Matthew Beard", "Wanyi Nie", "Andre Schleife", "John Colton", "Luisa Whittaker-Brooks"]
+        "keywords": [
+            "MaPbBr",
+            "polaron formation",
+            "carrier defects",
+            "exciton binding energy",
+            "dichalcogenides",
+            "Wannier",
+            "photoluminescence excitation"
+        ],
+        "authors": [
+            "Kameron Hansen",
+            "Cindy Wong",
+            "C. Emma McClure",
+            "Blake Romrell",
+            "Laura Flannery",
+            "Daniel Powell",
+            "Kelsey Garden",
+            "Alex Berzansky",
+            "Michele Eggleston",
+            "Daniel King",
+            "Carter Shirley",
+            "Matthew Beard",
+            "Wanyi Nie",
+            "Andre Schleife",
+            "John Colton",
+            "Luisa Whittaker-Brooks"
+        ]
+    },
+    {
+        "paper_id": 3,
+        "title": "Structural, Photophysical, and Electronic Properties of CH3NH3PbCl3 Single Crystals",
+        "authors": [
+            "Hao-Ping Hsu",
+            "Liang-Chen Li",
+            "Muthaiah Shellaiah",
+            "Kien Wen Sun"
+        ],
+        "abstract": "<jats:title>Abstract</jats:title><jats:p>Methylammonium lead chloride (CH<jats:sub>3</jats:sub>NH<jats:sub>3</jats:sub>PbCl<jats:sub>3</jats:sub> or MAPbCl<jats:sub>3</jats:sub>) single crystals were fabricated using the inverse temperature crystallization method, and their structural, photophysical, and electronic characteristics were studied using temperature dependent optical spectroscopy, X-ray diffraction (XRD), current-voltage, and Hall measurements. The changes in absorption and photoluminescence properties accompanied with structural changes in crystal lattice were studied within a broad temperature range of 300\u201320\u2009K. XRD investigations reveal that phase changes took placed around 180\u2009K and 175\u2009K. At a temperature below 170\u2009K, two different crystallographic phases were found to co-exist in the photoluminescence spectra. An asymmetric line shape with broad and weak shoulders near the absorption edges was observed in all of the major PL peaks. The weak shoulders are attributed to the missing chloride atoms on the crystal surface. The photoluminescence intensity of the crystals was strongly influenced by the environment, thereby indicating that the carrier recombination is affected by the physical desorption/absorption of gas molecules at the crystal surface. Moreover, vibronic replicas in the photoluminescence spectra at low temperature were observed for the first time. The origins of these replicas are attributed to the coupling between the vibrational/librational motions of the organic cations and the photoexcited electrons. Finally, the Hall and current-voltage measurements confirm that the crystal is an n-type semiconductor with a carrier concentration of ~2.63\u2009\u00d7\u200910<jats:sup>11</jats:sup>\u2009cm<jats:sup>\u22123</jats:sup>, a mobility of 4.14\u2009cm<jats:sup>2</jats:sup>/V\u2022s, and a conductivity of 1.8\u2009\u00d7\u200910<jats:sup>\u22128</jats:sup><jats:italic>\u03a9</jats:italic><jats:sup>\u22121</jats:sup>\u2009<jats:italic>cm</jats:italic><jats:sup>\u22121</jats:sup> under dark and room temperature conditions.</jats:p>",
+        "keywords": []
+    },
+    {
+        "paper_id": 4,
+        "title": "Tunable Semiconductors: Control over Carrier States and Excitations in Layered Hybrid Organic-Inorganic Perovskites",
+        "authors": [
+            "Chi Liu",
+            "William Huhn",
+            "Ke-Zhao Du",
+            "Alvaro Vazquez-Mayagoitia",
+            "David Dirkes",
+            "Wei You",
+            "Yosuke Kanai",
+            "David B. Mitzi",
+            "Volker Blum"
+        ],
+        "abstract": "For a class of 2D hybrid organic-inorganic perovskite semiconductors based on 𝜋-conjugated organic cations, we predict quantitatively how varying the organic and inorganic component allows control over the nature, energy, and localization of carrier states in a quantum-well-like fashion. Our first-principles predictions, based on large-scale hybrid density-functional theory with spin-orbit coupling, show that the interface between the organic and inorganic parts within a single hybrid can be modulated systematically, enabling us to select between different type-I and type-II energy level alignments. Energy levels, recombination properties, and transport behavior of electrons and holes thus become tunable by choosing specific organic functionalizations and juxtaposing them with suitable inorganic components.",
+        "keywords": []
+    },
+    {
+        "paper_id": 5,
+        "title": "Semiconducting Tin and Lead Iodide Perovskites with Organic Cations: Phase Transitions, High Mobilities, and Near-Infrared Photoluminescent Properties",
+        "authors": [
+            "Constantinos C. Stoumpos",
+            "Christos D. Malliakas",
+            "Mercouri G. Kanatzidis"
+        ],
+        "abstract": "A broad organic–inorganic series of hybrid metal iodide perovskites with the general formulation AMI3, where A is the methylammonium (CH3NH3+) or formamidinium (HC(NH2)2+) cation and M is Sn (1 and 2) or Pb (3 and 4) are reported. The compounds have been prepared through a variety of synthetic approaches, and the nature of the resulting materials is discussed in terms of their thermal stability and optical and electronic properties. We find that the chemical and physical properties of these materials strongly depend on the preparation method. Single crystal X-ray diffraction analysis of 1–4 classifies the compounds in the perovskite structural family. Structural phase transitions were observed and investigated by temperature-dependent single crystal X-ray diffraction in the 100–400 K range. The charge transport properties of the materials are discussed in conjunction with diffuse reflectance studies in the mid-IR region that display characteristic absorption features. Temperature-dependent studies show a strong dependence of the resistivity as a function of the crystal structure. Optical absorption measurements indicate that 1–4 behave as direct-gap semiconductors with energy band gaps distributed in the range of 1.25–1.75 eV. The compounds exhibit an intense near-IR photoluminescence (PL) emission in the 700–1000 nm range (1.1–1.7 eV) at room temperature. We show that solid solutions between the Sn and Pb compounds are readily accessible throughout the composition range. The optical properties such as energy band gap, emission intensity, and wavelength can be readily controlled as we show for the isostructural series of solid solutions CH3NH3Sn1–xPbxI3 (5). The charge transport type in these materials was characterized by Seebeck coefficient and Hall-effect measurements. The compounds behave as p- or n-type semiconductors depending on the preparation method. The samples with the lowest carrier concentration are prepared from solution and are n-type; p-type samples can be obtained through solid state reactions exposed in air in a controllable manner. In the case of Sn compounds, there is a facile tendency toward oxidation which causes the materials to be doped with Sn4+ and thus behave as p-type semiconductors displaying metal-like conductivity. The compounds appear to possess very high estimated electron and hole mobilities that exceed 2000 cm2/(V s) and 300 cm2/(V s), respectively, as shown in the case of CH3NH3SnI3 (1). We also compare the properties of the title hybrid materials with those of the “all-inorganic” CsSnI3 and CsPbI3 prepared using identical synthetic methods.",
+        "keywords": [
+	"Crystal Structure", "Group Theory", "Materials", "Perovskites", "Phase Transitions"
+	]
     }
 ]
-
