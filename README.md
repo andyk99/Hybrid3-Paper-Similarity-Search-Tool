@@ -1,5 +1,5 @@
 # Hybrid3-Paper-Similarity-Search-Tool
-This repository contains a Flask-based web application that helps researchers find relevant papers in the Hybrid Cubed Hybrid Perovskite database. Using an AI-driven approach, it enables similarity searches based on cosine similarity across vector embeddings for paper metadata components (title, abstract, keywords, authors) using SciBERT.
+This repository contains a locally hosted Flask-based web application that helps researchers find relevant papers in the Hybrid Cubed Hybrid Perovskite database. Using an AI-driven approach, it enables similarity searches based on cosine similarity across vector embeddings for paper metadata components (title, abstract, keywords, authors) using SciBERT.
 
 ## Features
 #### Text-Based Query Search: Input a topic or keywords to retrieve similar papers based on cosine similarity with existing entries in the Hybrid Cubed database.
