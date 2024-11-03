@@ -10,4 +10,4 @@ This repository contains a Flask-based web application that helps researchers fi
 #### app.py: Main Flask application script.
 #### similarity_search.py & similarity_search2.py: Scripts to compute similarity scores using SciBERT embeddings and FAISS.
 #### find_paper_metadata.py: Utility script to fetch and add metadata for papers from CrossRef using DOIs.
-#### papers.json: JSON file containing sample metadata for papers in the Hybrid Cubed database.
+#### papers.json: JSON file containing sample metadata for papers in the Hybrid Cubed database (5 test case sample).
