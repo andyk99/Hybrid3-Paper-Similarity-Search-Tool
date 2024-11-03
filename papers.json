@@ -1,0 +1,17 @@
+[
+    {
+        "paper_id": "1",
+        "title": "Mixed-halide perovskite synthesis by chemical reaction and crystal nucleation under an optical potential",
+        "abstract": "The development of new methods to engineer lead halide perovskite crystals with a controlled band gap and emission properties is an active subject in materials science and chemistry. We present the preparation of mixed-halide lead perovskites by spatially- and temporally- controlled chemical reactions and crystal growth under an optical potential in unsaturated precursor solutions. The crystals are characterized by transmission and photoluminescence spectral measurements and X-ray diffraction analysis. When compared with the spontaneous formation of multiple crystals in saturated precursor solutions, the optical potential creates large single crystals with a high chloride composition, providing distinct blue and green fluorescent crystals of chloride–bromide lead perovskites. We discuss the formation of mixed-halide perovskites from the viewpoints of an increased rate of chemical reaction via the formation and desolvation of precursor complexes and a decreased free energy potential.",
+        "keywords": ["perovskite", "optical trapping", "transmission microspectroscopy", "MaPbBr", "DMSO/DMF", "Chloride-bromide perovskite"],
+        "authors": ["Md Jahidul Islam", "Ken-ichi Yuyama", "Kiyonori Takahashi", "Takayoshi Nakamura", "Katsuaki Konishi", "Vasudevanpillai Biju"]
+    },
+    {
+        "paper_id": "2",
+        "title": "Uncovering Unique Screening Effects in 2D Perovskites: Implications for Exciton and Band Gap Engineering",
+        "abstract": "Coulomb interactions govern most optoelectronic properties in semiconductors including bandgap, excitons, polaron formation, light absorption, interaction of carriers with defects, charge and energy transport. A clear signature of the strength of many-body Coulomb interactions is the exciton binding energy (Eb). As such, the importance of Eb is perhaps second only to the fundamental band gap (Eg) in understanding the physics and efficiency of low-dimensional semiconductors. However, despite their importance, Eg and Eb are difficult to measure. Here, by choosing 2D halide perovskites as the material and electroabsorption as the experimental probe, we measure Eg and Eb with a precision that is an order of magnitude better than typical methods. The Eb values are both lower than previous literature reports and lower than expected from standard theory. Using dielectric spectroscopy, density functional theory, and quantum mechanical modeling, we demonstrate these low Eb values are a consequence of unique screening effects, such as superlattice screening and phonon screening. We demonstrate a clear correlation between Eb and Eg and provide design principles in order to a priori tune Eg and Eb to their optimal values. As such, this work lays the blueprint for Eg-Eb engineering of low-dimensional semiconductors, as an even more useful replacement to simply band gap engineering.",
+        "keywords": ["MaPbBr", "polaron formation", "carrier defects", "exciton binding energy", "dichalcogenides", "Wannier", "photoluminescence excitation"],
+        "authors": ["Kameron Hansen", "Cindy Wong", "C. Emma McClure", "Blake Romrell", "Laura Flannery", "Daniel Powell", "Kelsey Garden", "Alex Berzansky", "Michele Eggleston", "Daniel King", "Carter Shirley", "Matthew Beard", "Wanyi Nie", "Andre Schleife", "John Colton", "Luisa Whittaker-Brooks"]
+    }
+]
+
